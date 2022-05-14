@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "mikestead.dotenv",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "wallabyjs.quokka-vscode",
+    "rangav.vscode-thunder-client",
+    "WallabyJs.wallaby-vscode"
+  ]
+}
